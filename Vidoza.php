@@ -4,7 +4,7 @@
 *
 * Vidoza Class
 * @author JM <https://t.me/httd1>
-* @link https://github.com/vidozaphp
+* @link https://github.com/httd1/vidozaphp
 * @link https://vidoza.net/api
 *
 **/
