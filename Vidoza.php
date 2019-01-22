@@ -4,7 +4,7 @@
 *
 * Vidoza Class
 * @author JM <https://t.me/httd1>
-* @link https://github.com/httd1/vidozaphp
+* @link https://github.com/vidozaphp
 * @link https://vidoza.net/api
 *
 **/
@@ -59,13 +59,13 @@ class Vidoza
 		
 		}
 		
-		/**
-		*
-		* Check whether your file is active or deleted.
-		*
-		* @param array $ids - List IDs of files.
-		*
-		**/
+	/**
+	*
+	* Check whether your file is active or deleted.
+	*
+	* @param array $ids - List IDs of files.
+	*
+	**/
 		
 	public function statusFiles (array $ids)
 	{
